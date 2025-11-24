@@ -1,4 +1,3 @@
-# India Energy Stack (IES)
 **Official Repository of the India Energy Stack**
 
 The **India Energy Stack (IES)** is a national-scale digital architecture designed to enable secure, interoperable, and real-time data exchange across India’s power sector. Inspired by India’s Digital Public Infrastructure initiatives, IES provides a uniform technical foundation that accelerates innovation, strengthens grid reliability, and supports new market and operational models.
