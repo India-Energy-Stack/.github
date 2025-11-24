@@ -11,12 +11,18 @@ The v0.1 release introduces the foundational architecture documents and accompan
 
 ## 📂 Repository Structure (Initial)
 
+## 📂 Repository Structure (Initial)
+
+```text
 ies-docs
 ├── architecture
 ├── implementation-guides
+├── LICENSE
 └── README.md
 
 ies-specs
 ├── ev-charging
 ├── p2p-trading
+├── LICENSE
 └── README.md
+```
