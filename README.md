@@ -11,8 +11,6 @@ The v0.1 release introduces the foundational architecture documents and accompan
 
 ## 📂 Repository Structure (Initial)
 
-## 📂 Repository Structure (Initial)
-
 ```text
 ies-docs
 ├── architecture
