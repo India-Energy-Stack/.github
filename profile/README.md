@@ -4,7 +4,7 @@ The **India Energy Stack (IES)** is a national-scale digital architecture design
 
 This repository serves as the **central home for specifications, reference implementations, documentation, and standards** developed under the IES Initiative.
 
-The v0.1 release introduces the foundational architecture documents and accompanying specifications, with complete coverage for two initial use cases: EV Charging and Peer-to-Peer Energy Trading.
+> ### For details, see [IES Documentation](https://github.com/India-Energy-Stack/ies-docs)
 
 ---
 
